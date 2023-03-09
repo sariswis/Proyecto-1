@@ -356,8 +356,8 @@
     ><rect fill="none" x="0.5" width="138.5" height="128.5" y="0.5" clip-path="url(#clipPath12)"
       /><text x="22" font-size="14px" y="17.975" clip-path="url(#clipPath12)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >«Enumeration»</text
-      ><text x="56" font-size="14px" y="33.95" clip-path="url(#clipPath12)" font-family="sans-serif" stroke="none" xml:space="preserve"
-      >Tipo</text
+      ><text x="59" font-size="14px" y="33.95" clip-path="url(#clipPath12)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >Rol</text
       ><path fill="none" d="M1 39.95 L139 39.95" clip-path="url(#clipPath12)"
       /><text x="5" font-size="14px" y="54.925" clip-path="url(#clipPath12)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >ADMINISTRADOR</text
